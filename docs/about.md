@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-{% include image-gallery.html folder="/uploads/album" %}
+{% include image-gallery.html folder="/images" %}
